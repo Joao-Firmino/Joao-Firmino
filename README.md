@@ -40,8 +40,8 @@ Atualmente, meu foco profissional combina desenvolvimento web com o ecossistema 
 </p>
 
 <p>
-  <img align="center" src="https://img.shields.io/badge/Ecossistema_Atlas-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Atlas Badge" />
-  &nbsp; Desenvolvimento de interfaces focadas em UX para Data Science e Machine Learning.
+  <img align="center" src="https://img.shields.io/badge/Machine_Learning_&_Data_Viz-007ACC?style=for-the-badge&logo=plotly&logoColor=white" alt="ML Badge" />
+  &nbsp; Desenvolvimento de interfaces interativas e dashboards para modelos de Data Science.
 </p>
 ---
 
