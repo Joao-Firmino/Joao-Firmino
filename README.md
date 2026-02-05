@@ -27,17 +27,22 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções práticas. 
 Atualmente, meu foco profissional combina desenvolvimento web com o ecossistema de **Inteligência Artificial**, atuando diretamente em projetos inovadores na **Atlas Intelligence** e na **Outlier**.
 
 ---
-
 <h3>🧠 Data Science & Inteligência Artificial</h3>
 
-<img src="https://img.shields.io/badge/IA_&_Redes_Neurais-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="IA Badge" /> Formação prática em Redes Neurais e noções de IA pela UFPE e UPE.
-<br><br>
+<p>
+  <img align="center" src="https://img.shields.io/badge/IA_&_Redes_Neurais-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="IA Badge" />
+  &nbsp; [cite_start]Formação prática em Redes Neurais e noções de IA pela UFPE e UPE. [cite: 7, 27]
+</p>
 
-<img src="https://img.shields.io/badge/IDP_&_Gêmeo_Digital-2EA44F?style=for-the-badge&logo=nvidia&logoColor=white" alt="Data Badge" /> Atuação em Processamento Inteligente de Documentos e soluções para a indústria.
-<br><br>
+<p>
+  <img align="center" src="https://img.shields.io/badge/IDP_&_Gêmeo_Digital-2EA44F?style=for-the-badge&logo=nvidia&logoColor=white" alt="Data Badge" />
+  &nbsp; [cite_start]Atuação em Processamento Inteligente de Documentos e soluções para a indústria. [cite: 21]
+</p>
 
-<img src="https://img.shields.io/badge/Ecossistema_Atlas-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Atlas Badge" /> Desenvolvimento de interfaces focadas em UX para Data Science e Machine Learning.
-
+<p>
+  <img align="center" src="https://img.shields.io/badge/Ecossistema_Atlas-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Atlas Badge" />
+  &nbsp; [cite_start]Desenvolvimento de interfaces focadas em UX para Data Science e Machine Learning. [cite: 16]
+</p>
 ---
 
 <h3>🛠️ Habilidades e Tecnologias</h3>
