@@ -3,12 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!+%F0%9F%8C%8E;Eu+sou+Jo%C3%A3o+Firmino" alt="Typing SVG" />
   </a>
 
-  <p>
-    <img src="https://img.shields.io/badge/Front--end-Developer-blue?style=flat-square&logo=react&logoColor=white" alt="Frontend"/>
-    <img src="https://img.shields.io/badge/Full--Stack-Developer-black?style=flat-square&logo=vercel&logoColor=white" alt="Fullstack"/>
-    <img src="https://img.shields.io/badge/Data--Science-Enthusiast-orange?style=flat-square&logo=python&logoColor=white" alt="Data Science"/>
-  </p>
-  
+<div align="center">
+  <img src="https://img.shields.io/badge/Front--end_Developer-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Fullstack"/>
+  <img src="https://img.shields.io/badge/Data_Science_Enthusiast-F7931E?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
+</div>
   <br>
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-firmino-887700281/https://www.linkedin.com/in/jo%C3%A3o-firmino-887700281/">
@@ -25,7 +24,7 @@
 
 Sou um desenvolvedor apaixonado por transformar ideias em soluções práticas. Tenho uma base sólida em **Sistemas de Informação (UPE)** e atuo fortemente no desenvolvimento de interfaces escaláveis e de alta performance. 
 
-Atualmente, meu foco profissional combina desenvolvimento web com o ecossistema de **Inteligência Artificial**, atuando diretamente em projetos inovadores na **Atlas Intelligence** e na **HL Software**.
+Atualmente, meu foco profissional combina desenvolvimento web com o ecossistema de **Inteligência Artificial**, atuando diretamente em projetos inovadores na **Atlas Intelligence** e na **Outlier**.
 
 ---
 
