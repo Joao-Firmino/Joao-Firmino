@@ -46,8 +46,6 @@ Minha experiência vai além do código tradicional, integrando desenvolvimento 
   <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Data Science" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
