@@ -1,46 +1,92 @@
-<h1>Olá Mundo! 🌎 Eu sou o João Paulo Firmino</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!+%F0%9F%8C%8E;Eu+sou+Jo%C3%A3o+Paulo+Firmino" alt="Typing SVG" />
+  </a>
 
-<h2>Quem sou eu? 🤔</h2>
-Sou um desenvolvedor focado em construir interfaces eficientes e soluções escaláveis, com forte atuação em ecossistemas de **Data Science** e **Inteligência Artificial**. Atualmente, trabalho como **Front-end Developer na Atlas Intelligence** e **Full Stack Developer na HL Software**. Sou Bacharel em **Sistemas de Informação** pela UPE e possuo uma base técnica sólida iniciada na ETE José Humberto de Moura Cavalcanti.
+  <p>
+    <img src="https://img.shields.io/badge/Front--end-Developer-blue?style=flat-square&logo=react&logoColor=white" alt="Frontend"/>
+    <img src="https://img.shields.io/badge/Full--Stack-Developer-black?style=flat-square&logo=vercel&logoColor=white" alt="Fullstack"/>
+    <img src="https://img.shields.io/badge/Data--Science-Enthusiast-orange?style=flat-square&logo=python&logoColor=white" alt="Data Science"/>
+  </p>
+  
+  <br>
 
-<hr>
-
-<h2>Data Science & Machine Learning 🧠</h2>
-
-* **IA & Redes Neurais:** Experiência prática em Redes Neurais e noções introdutórias de IA pela UFPE.
-* **Processamento de Dados:** Atuação em Processamento Inteligente de Documentos (IDP) e Gêmeo Digital.
-* **Ecossistema:** Desenvolvimento de interfaces para soluções de Data Science e Machine Learning na Atlas Intelligence.
-
-<hr>
-
-<h2>Habilidades e Tecnologias 🚀</h2> 
-
-* **Linguagens:** Python, SQL, HTML, CSS, TypeScript, JavaScript, Git
-* **Desenvolvimento:** Front-end, Back-end (Full Stack) e Mobile
-* **Segurança:** Noções de Privacidade, Segurança da Informação e Engenharia Social
-* **Metodologias:** Experiência com Metodologias Ágeis e times multifuncionais
-* **Idiomas:** Português (Nativo) e Inglês (Avançado)
+  <a href="https://www.linkedin.com/in/joao-paulo-firmino/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:joaopfirmino@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
 <hr>
 
-<h2>Estatísticas de Contribuição 📊</h2>
+<h3>🚀 Quem sou eu?</h3>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Firmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Firmino&layout=compact&langs_count=7&theme=dracula" />
-</p>
+Sou um desenvolvedor apaixonado por transformar ideias em soluções práticas. Tenho uma base sólida em **Sistemas de Informação (UPE)** e atuo fortemente no desenvolvimento de interfaces escaláveis e de alta performance. 
 
-<hr>
+Atualmente, meu foco profissional combina desenvolvimento web com o ecossistema de **Inteligência Artificial**, atuando diretamente em projetos inovadores na **Atlas Intelligence** e na **HL Software**.
 
-<h2>Experiência Profissional 💼</h2> 
+---
 
-* **Front-end Developer, Atlas Intelligence** (Set 2025 - Atualmente)
-* **Full Stack Developer, Startup HL Software** (Ago 2025 - Atualmente)
-* **Bolsista, Startup Di2win** (Jan 2023 - Nov 2023)
+<h3>🧠 Data Science & Inteligência Artificial</h3>
 
-<hr>
+Minha experiência vai além do código tradicional, integrando desenvolvimento com soluções de dados:
 
-<h2>Vamos nos conectar! 🌐</h2> 
+* <img src="https://img.shields.io/badge/IA-Redes_Neurais-purple?style=flat-square" /> Formação prática em Redes Neurais pela UFPE.
+* <img src="https://img.shields.io/badge/Data-IDP_&_Gêmeo_Digital-green?style=flat-square" /> Experiência com Processamento Inteligente de Documentos.
+* <img src="https://img.shields.io/badge/Ecossistema-Atlas_Intelligence-blue?style=flat-square" /> Interfaces focadas em UX para Data Science e ML.
 
-* **Email:** joaopfirmino@outlook.com
-* **Localização:** Passira, Pernambuco, Brazil
+---
+
+<h3>🛠️ Habilidades e Tecnologias</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<br>
+
+* **Front-end:** Foco em usabilidade, UX e performance.
+* **Back-end:** Construção de plataformas web escaláveis.
+* **Segurança:** Conhecimentos em privacidade e engenharia social.
+
+---
+
+<h3>📊 Minha Atividade no GitHub</h3>
+
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-Firmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="160" alt="João Paulo Firmino Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Firmino&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
+</div>
+
+---
+
+<h3>💼 Experiência Profissional</h3>
+
+| Período | Empresa | Cargo |
+| :--- | :--- | :--- |
+| **Nov 2025 - Atual** | <img src="https://img.shields.io/badge/Outlier-8A2BE2?style=flat-square&logo=openai&logoColor=white"/> | Freelancer AI Consultant (Machine Learning) |
+| **Set 2025 - Atual** | <img src="https://img.shields.io/badge/Atlas_Intelligence-blue?style=flat-square&logo=googlecloud&logoColor=white"/> | Front-end Developer / Data Scientist |
+| **Ago 2025 - Dez 2025** | <img src="https://img.shields.io/badge/Startup_HL_Software-black?style=flat-square&logo=vercel&logoColor=white"/> | Full Stack Developer |
+| **Jan 2023 - Nov 2023** | <img src="https://img.shields.io/badge/Startup_Di2win-green?style=flat-square&logo=android&logoColor=white"/> | Bolsista de P&D |
+
+---
+
+<h3>🎓 Formação Acadêmica</h3>
+
+* 🎓 **Bacharelado em Sistemas de Informação** | UPE - Universidade de Pernambuco
+* 🎓 **Técnico em Informática para Internet** | ETE José Humberto de Moura Cavalcanti
+* 📜 **Certificações (UFPE/ArabolA):** Inteligência Artificial, Redes Neurais e Segurança da Informação.
+
+---
+
+<div align="center">
+  <p>Feito com 💙 por João Paulo Firmino</p>
+</div>
