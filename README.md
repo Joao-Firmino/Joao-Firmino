@@ -30,12 +30,19 @@ Atualmente, meu foco profissional combina desenvolvimento web com o ecossistema 
 
 <h3>🧠 Data Science & Inteligência Artificial</h3>
 
-Minha experiência vai além do código tradicional, integrando desenvolvimento com soluções de dados:
+<img src="https://img.shields.io/badge/IA_&_Redes_Neurais-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="IA Badge" />
+<br>
+Formação prática em Redes Neurais e noções de IA pela UFPE.
+<br><br>
 
-* <img src="https://img.shields.io/badge/IA-Redes_Neurais-purple?style=flat-square" /> Formação prática em Redes Neurais pela UFPE.
-* <img src="https://img.shields.io/badge/Data-IDP_&_Gêmeo_Digital-green?style=flat-square" /> Experiência com Processamento Inteligente de Documentos.
-* <img src="https://img.shields.io/badge/Ecossistema-Atlas_Intelligence-blue?style=flat-square" /> Interfaces focadas em UX para Data Science e ML.
+<img src="https://img.shields.io/badge/IDP_&_Gêmeo_Digital-2EA44F?style=for-the-badge&logo=nvidia&logoColor=white" alt="Data Badge" />
+<br>
+Atuação em Processamento Inteligente de Documentos e soluções para a indústria.
+<br><br>
 
+<img src="https://img.shields.io/badge/Ecossistema_Atlas-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Atlas Badge" />
+<br>
+Desenvolvimento de interfaces focadas em UX para Data Science e Machine Learning.
 ---
 
 <h3>🛠️ Habilidades e Tecnologias</h3>
