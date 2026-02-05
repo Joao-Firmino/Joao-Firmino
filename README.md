@@ -76,7 +76,7 @@ Minha experiência vai além do código tradicional, integrando desenvolvimento 
 <h3>🎓 Formação Acadêmica</h3>
 
 * 🎓 **Bacharelado em Sistemas de Informação** | UPE - Universidade de Pernambuco
-* * 📜 **Certificações (UFPE/ArabolA):** Inteligência Artificial, Redes Neurais e Segurança da Informação.
+* 📜 **Certificações (UFPE/ArabolA):** Inteligência Artificial, Redes Neurais e Segurança da Informação.
 * 🎓 **Técnico em Informática para Internet** | ETE José Humberto de Moura Cavalcanti
 
 ---
