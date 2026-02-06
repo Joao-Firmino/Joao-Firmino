@@ -59,7 +59,7 @@ Atualmente, meu foco profissional combina desenvolvimento web com o ecossistema 
 
 <br>
 
-* **Data Science & ML:** Desenvolvimento de soluções de IA, Redes Neurais e Processamento Inteligente de Documentos.
+* **Data Science & ML:** Desenvolvimento de soluções de IA, Redes Neurais, Databricks e Processamento Inteligente de Documentos.
 * **Front-end:** Foco em usabilidade, UX e performance.
 * **Back-end:** Construção de plataformas web escaláveis.
 * **Segurança:** Conhecimentos em privacidade e engenharia social.
