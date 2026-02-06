@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!+%F0%9F%8C%8E;Eu+sou+Jo%C3%A3o+Firmino" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;I+am+Jo%C3%A3o+Firmino" alt="Typing SVG" />
   </a>
 
 <div align="center">
@@ -20,32 +20,32 @@
 
 <hr>
 
-<h3>🚀 Quem sou eu?</h3>
+<h3>🚀 Who am I?</h3>
 
-Sou um desenvolvedor apaixonado por transformar ideias em soluções práticas. Tenho uma base sólida em **Sistemas de Informação (UPE)** e atuo fortemente no desenvolvimento de interfaces escaláveis e de alta performance. 
+I am a developer passionate about transforming ideas into practical solutions. I have a solid background in **Information Systems (UPE)** and work heavily on developing scalable and high-performance interfaces.
 
-Atualmente, meu foco profissional combina desenvolvimento web com o ecossistema de **Inteligência Artificial**, atuando diretamente em projetos inovadores na **Atlas Intelligence** e na **Outlier**.
+Currently, my professional focus combines web development with the **Artificial Intelligence** ecosystem, working directly on innovative projects at **Atlas Intelligence** and **Outlier**.
 
 ---
-<h3>🧠 Data Science & Inteligência Artificial</h3>
+<h3>🧠 Data Science & Artificial Intelligence</h3>
 
 <p>
-  <img align="center" src="https://img.shields.io/badge/IA_&_Redes_Neurais-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="IA Badge" />
-  &nbsp; Formação prática em Redes Neurais e noções de IA pela UFPE e UPE.
+  <img align="center" src="https://img.shields.io/badge/AI_&_Neural_Networks-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Badge" />
+  &nbsp; Practical training in Neural Networks and AI concepts at UFPE and UPE.
 </p>
 
 <p>
-  <img align="center" src="https://img.shields.io/badge/IDP_&_Gêmeo_Digital-2EA44F?style=for-the-badge&logo=nvidia&logoColor=white" alt="Data Badge" />
-  &nbsp; Atuação em Processamento Inteligente de Documentos e soluções para a indústria.
+  <img align="center" src="https://img.shields.io/badge/IDP_&_Digital_Twin-2EA44F?style=for-the-badge&logo=nvidia&logoColor=white" alt="Data Badge" />
+  &nbsp; Experience in Intelligent Document Processing and solutions for the industry.
 </p>
 
 <p>
   <img align="center" src="https://img.shields.io/badge/Machine_Learning_&_Data_Viz-007ACC?style=for-the-badge&logo=plotly&logoColor=white" alt="ML Badge" />
-  &nbsp; Desenvolvimento de interfaces interativas e dashboards para modelos de Data Science.
+  &nbsp; Development of interactive interfaces and dashboards for Data Science models.
 </p>
 ---
 
-<h3>🛠️ Habilidades e Tecnologias</h3>
+<h3>🛠️ Skills and Technologies</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -59,32 +59,32 @@ Atualmente, meu foco profissional combina desenvolvimento web com o ecossistema 
 
 <br>
 
-* **Data Science & ML:** Desenvolvimento de soluções de IA, Redes Neurais, Databricks e Processamento Inteligente de Documentos.
-* **Front-end:** Foco em usabilidade, UX e performance.
-* **Back-end:** Construção de plataformas web escaláveis.
-* **Segurança:** Conhecimentos em privacidade e engenharia social.
+* **Data Science & ML:** Development of AI solutions, Neural Networks, Databricks, and Intelligent Document Processing.
+* **Front-end:** Focus on usability, UX, and performance.
+* **Back-end:** Building scalable web platforms.
+* **Security:** Knowledge in privacy and social engineering.
 
 ---
 
 
-<h3>💼 Experiência Profissional</h3>
+<h3>💼 Professional Experience</h3>
 
-| Período | Empresa | Cargo |
+| Period | Company | Role |
 | :--- | :--- | :--- |
-| **Nov 2025 - Atual** | <a href="https://www.linkedin.com/company/try-outlier/" target="_blank"><img src="https://img.shields.io/badge/Outlier-8A2BE2?style=flat-square&logo=openai&logoColor=white"/></a> | Freelancer AI Consultant (Machine Learning) |
-| **Set 2025 - Atual** | <a href="https://www.linkedin.com/company/atlas-intelligence-company/" target="_blank"><img src="https://img.shields.io/badge/Atlas_Intelligence-blue?style=flat-square&logo=googlecloud&logoColor=white"/></a> | Front-end Developer / Data Scientist |
-| **Ago 2025 - Dez 2025** | <a href="https://www.linkedin.com/company/hlsoftware/" target="_blank"><img src="https://img.shields.io/badge/Startup_HL_Software-black?style=flat-square&logo=vercel&logoColor=white"/></a> | Full Stack Developer |
-| **Jan 2023 - Nov 2023** | <a href="https://www.linkedin.com/company/di2win/" target="_blank"><img src="https://img.shields.io/badge/Startup_Di2win-green?style=flat-square&logo=android&logoColor=white"/></a> | Bolsista de P&D |
+| **Nov 2025 - Present** | <a href="https://www.linkedin.com/company/try-outlier/" target="_blank"><img src="https://img.shields.io/badge/Outlier-8A2BE2?style=flat-square&logo=openai&logoColor=white"/></a> | Freelancer AI Consultant (Machine Learning) |
+| **Sep 2025 - Present** | <a href="https://www.linkedin.com/company/atlas-intelligence-company/" target="_blank"><img src="https://img.shields.io/badge/Atlas_Intelligence-blue?style=flat-square&logo=googlecloud&logoColor=white"/></a> | Front-end Developer / Data Scientist |
+| **Aug 2025 - Dec 2025** | <a href="https://www.linkedin.com/company/hlsoftware/" target="_blank"><img src="https://img.shields.io/badge/Startup_HL_Software-black?style=flat-square&logo=vercel&logoColor=white"/></a> | Full Stack Developer |
+| **Jan 2023 - Nov 2023** | <a href="https://www.linkedin.com/company/di2win/" target="_blank"><img src="https://img.shields.io/badge/Startup_Di2win-green?style=flat-square&logo=android&logoColor=white"/></a> | R&D Fellow (Scholarship) |
 ---
 
-<h3>🎓 Formação Acadêmica</h3>
+<h3>🎓 Academic Education</h3>
 
-* 🎓 **Bacharelado em Sistemas de Informação** | UPE - Universidade de Pernambuco
-* 📜 **Certificações (UFPE/ArabolA):** Inteligência Artificial, Redes Neurais e Segurança da Informação.
-* 🎓 **Técnico em Informática para Internet** | ETE José Humberto de Moura Cavalcanti
+* 🎓 **Bachelor of Information Systems** | UPE - University of Pernambuco
+* 📜 **Certifications (UFPE/ArabolA):** Artificial Intelligence, Neural Networks, and Information Security.
+* 🎓 **Technician in Informatics for Internet** | ETE José Humberto de Moura Cavalcanti
 
 ---
 
 <div align="center">
-  <p>Feito com 💙 por João Paulo Firmino</p>
+  <p>Made with 💙 by João Paulo Firmino</p>
 </div>
